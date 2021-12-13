@@ -22,4 +22,4 @@ Para manter um padrão geral em todos os links, você deve:
 - Adicionar uma bandeira (brasil, estados unidos, china, espanhol) para simbolizar o idioma do link
 
 ## Recomendação (Opcional)
-Para uma melhor semântica nos commits, recomendamos nosso repositório sobre [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
+Para uma melhor compreensão, sse repositorio usa a convenção de `commits` do <a href="https://www.conventionalcommits.org/en/v1.0.0/"> Convencional Commits</a> [COMMITS SEMÂNTICOS](https://github.com/iuricode/padroes-de-commits). Assim ficará mais fácil para avaliar seu pull request.
